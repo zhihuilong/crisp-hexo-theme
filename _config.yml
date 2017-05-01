@@ -1,10 +1,9 @@
 logo: /asset/logo.png
 rss: /atom.xml
 favicon: /favicon.ico
-disqus: zhihuilong
-google_analytics:
 
-# Social accounts
 github: zhihuilong
 twitter: zhihuilong
 linkedin: zhihuilong
+disqus: zhihuilong
+google_analytics: UA-98371475-1
