@@ -1,12 +1,10 @@
-logo: /asset/guolin.png
+logo: /asset/logo.png
 rss: /atom.xml
-disqus:
+favicon: /favicon.ico
+disqus: zhihuilong
 google_analytics:
 
 # Social accounts
-instagram:
-pinterest:
-github:
-facebook:
-twitter:
-linkedin:
+github: zhihuilong
+twitter: zhihuilong
+linkedin: zhihuilong
